@@ -1,0 +1,13 @@
+h1{
+    font-family: "Quicksand", sans-serif !important;
+  font-optical-sizing: auto !important;
+  font-style: normal !important;
+}
+
+p,h2,h3{
+  font-family: "Open Sans", sans-serif !important;
+  font-optical-sizing: auto !important;
+  font-style: normal !important;
+  font-variation-settings:
+    "wdth" 100 !important;
+}
